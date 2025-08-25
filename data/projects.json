@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "信息哨兵",
+    "description": "定时从github拉取订阅的仓库的信息(包括commit、issue、pr)，利用LLM进行总结整理形成一份简报，然后发送到个人邮箱。项目设计成支持多种信息源，目前为止，除了github，还有hacker news和arXiv。",
+    "imageUrl": "/images/agger.jpg",
+    "tags": ["LLM", "Automation", "Report Generation", "GitHub API", "Data Aggregation", "Information Monitoring"],
+    "liveUrl": "https://lm.lcslearn.top",
+    "sourceUrl": "https://github.com/algorithm9/GitHubSentinel"
+  },
+  {
+    "id": 2,
+    "title": "LanguageMentor",
+    "description": "LanguageMentor 是一款基于 LLaMA 3.1 、GPT-4o-mini、DeepSeek等大模型 的在线英语私教系统，提供英语对话练习和场景化学习训练。用户可以选择不同的场景，或直接与对话代理人进行自由对话，模拟真实生活中的英语交流场景，提升语言能力。",
+    "imageUrl": "/images/lm.jpg",
+    "tags": ["Conversational AI", "AI Tutor", "Scenario-based Learning","Prompt Engineering", "DeepSeek", "GPT", "LLaMA"],
+    "liveUrl": "https://lm.lcslearn.top/",
+    "sourceUrl": "https://github.com/algorithm9/LanguageMentor"
+  },
+  {
+    "id": 3,
+    "title": "ChatPPT",
+    "description": "ChatPPT 是一个基于多模态 AI 技术的智能助手，旨在提升企业办公自动化流程的效率。它能够处理语音、图像和文本等多种输入形式，通过精确的提示工程和强大的自然语言处理能力，为用户生成高质量的 PowerPoint 演示文稿。ChatPPT 不仅简化了信息收集和内容创作过程，还通过自动化的报告生成和分析功能，帮助企业快速、准确地完成各类汇报和展示任务，从而显著提升工作效率和业务价值。",
+    "imageUrl": "/images/chatppt.jpg",
+    "tags": ["Generative AI", "Multimodal AI", "Office Automation", "NLP", "PPT", "Whisper", "Stable Diffusion", "transformers", "MiniCPM"],
+    "liveUrl": "https://chatppt.lcslearn.top/",
+    "sourceUrl": "https://github.com/algorithm9/ChatPPT"
+  },
+  {
+    "id": 4,
+    "title": "电商专业客服RAG",
+    "description": "新一代电商客服，精准分类用户意图，实现流程自动化与专业化。售前/售后知识库分离，保证信息调用的准确性与相关性。支持文本与图像的综合理解，轻松处理复杂场景。结合私有数据，杜绝模型幻觉，生成可靠、可信的回复。",
+    "imageUrl": "/images/cs.jpg",
+    "tags": ["RAG", "E-commerce", "Customer Support", "Multimodal AI", "Knowledge Base"],
+    "liveUrl": "https://cloud.fastgpt.cn/chat/share?shareId=oU1nYNeWHxGBWbo1ljcXksA2",
+    "sourceUrl": null
+  }
+]
